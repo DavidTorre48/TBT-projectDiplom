@@ -1,0 +1,52 @@
+{
+    "Items": [
+        {
+            "name": "Skeleton",
+            "team": "Enemy",
+            "alignment": "Neutral Evil",
+            "class": "Warrior",
+            "race": "Undead",
+            "AC": 15,
+            "HP": 8,
+            "walkingSpeed": 30,
+            "swimmingSpeed": 0,
+            "STR": 12,
+            "DEX": 10,
+            "CON": 12,
+            "INT": 4,
+            "WIS": 4,
+            "CHA": 1,
+            "savingThrows": "STR +1",
+            "skills": "No skills",
+            "senses": "No senses",
+            "languages": "Can't speak",
+            "traits": "No traits",
+            "spritesheet": "skeleton.png",
+            "numSprites": 8
+        },
+        {
+            "name": "Goblin",
+            "team": "Enemy",
+            "alignment": "Chaotic Evil",
+            "class": "Warrior",
+            "race": "Goblin",
+            "AC": 13,
+            "HP": 30,
+            "walkingSpeed": 30,
+            "swimmingSpeed": 0,
+            "STR": 18,
+            "DEX": 10,
+            "CON": 16,
+            "INT": 7,
+            "WIS": 9,
+            "CHA": 6,
+            "savingThrows": "STR +6, CON +5",
+            "skills": "Intimidation +2",
+            "senses": "Darkvision 60 ft., Passive Perception 9",
+            "languages": "WAAAAAGHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+            "traits": "Aggressive. Can move up to its speed toward a hostile creature as a bonus action.",
+            "spritesheet": "goblin.png",
+            "numSprites": 2
+        }
+    ]
+}
